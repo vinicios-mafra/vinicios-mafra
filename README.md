@@ -1,4 +1,4 @@
-# Olá! 👋
+# Olá!
 
 Meu nome é Vinicios Mafra  
 🎓 Estudante de Sistemas de Informação  
